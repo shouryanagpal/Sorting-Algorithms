@@ -39,6 +39,15 @@ void  mergeSort(int arr[], int l ,int r ){
 
 int main(){
     // Merge SORT 
+    // Time Complexity :
+    // worst  : Big-O(nlog(n))
+    // best   : Theita(nlog(n))
+    // average: Omega(nlog(n))
+
+    // In Place - No
+    // Stable   - Yes
+    // Space Complexity :n
+    // Method : Merging
     int arr[] ={2,4,6,8,10,1,3,5,7,9,1,1,2,2,3,3};
     mergeSort(arr,0,Size(arr)-1);
     cout<<"sorted array : ";
