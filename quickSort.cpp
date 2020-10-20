@@ -21,6 +21,15 @@ void quickSort(int arr[] ,int l, int r){
 }
 int main(){
     // Quick SORT
+    // Time Complexity :
+    // worst  : Big-O(n^2)
+    // best   : Theita(n^log(n))
+    // average: Omega(n^log(n))
+
+    // Stable   - No
+    // Space Complexity :1
+    // Method : Partitioning
+    // Class : Comparison Sort
     int arr[10]={10,9,8,7,6,5,4,3,2,1};
     quickSort(arr,0,10) ;
     cout<<"sorted array : ";
