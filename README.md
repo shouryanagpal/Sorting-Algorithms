@@ -15,4 +15,6 @@ It includes varios algorithms including :
 
 5.QuickSort
 
+6.HeapSort
+
 and many more...
