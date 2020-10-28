@@ -39,6 +39,18 @@ void heapsortDeletion(int arr[], int n){
     }
 }
 int main(){
+    //Heap Sort 
+    // Time Complexity :
+    // worst  : Big-O(nlog(n))
+    // best   : Theita(nlog(n))
+    // average: Omega(nlog(n))
+
+   
+    // Stable : - No
+    // Space Complexity : 1
+    // Method : Selection
+
+	
     int arr[10]={10,7,6,8,9,5,4,3,2,1} ;
     /* heapSortInsertion(arr,Size(arr));
     heapSortDeletion(arr,Size(arr)); */
