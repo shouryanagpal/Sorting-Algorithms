@@ -3,7 +3,7 @@ Sorting algorithms  :
 Sorting  Algorithms are used to sort data in ascending order / descending order . Sorting algorithms are good for logic building . Algorithms writen in C++ 
 
 
-It includes varios algorithms including :
+It includes various algorithms including :
 
 1.BubbleSort 
 
@@ -18,3 +18,4 @@ It includes varios algorithms including :
 6.HeapSort
 
 and many more...
+
